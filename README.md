@@ -21,4 +21,4 @@ adding: test/tmp/TmpSuiteListener.class(in = 849) (out= 470)(deflated 44%)
 
 -- Now, take this sl.jar file and add it to your classpath. You are good to go. 
 
--- If you want to give it a try, there is a compiled sl.jar file already under the root folder (ServiceLoaderExample) of this project. You can simply add it to your class path and give it a try.
+# If you want to give it a try, there is a compiled sl.jar file already under the root folder (ServiceLoaderExample) of this project. You can simply add it to your class path and give it a try.
